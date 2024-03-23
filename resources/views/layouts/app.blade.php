@@ -84,7 +84,7 @@
     <div class=" p-2 fixed-bottom bg-secondary">
         <div class=" container">
             <span class="btn btn-secondary">
-                &copy;{!! date("Y") !!}
+                &copy;{!! date("Y") !!} All Rights Reserve
             </span>
             <a href="" class="btn btn-secondary">About</a>
         </div>
